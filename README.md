@@ -1,7 +1,7 @@
 <h3>Şahsıma ait web adresimin kaynak kodlarının tamamıdır.</h3>
 <br>(https://www.ilteriskaanpehlivan.com.tr)
-<p>Kaynak kodlarının yanında kullandığım mevcut tüm eklentilerin isimlerini de ekler isem:
-1-) All 404 Redirect to Homepage	
+<ul>Kaynak kodlarının yanında kullandığım mevcut tüm eklentilerin isimlerini de ekler isem:<ul>
+<li>1-) All 404 Redirect to Homepage	
 2-) Burger Companion	
 3-) Disable Comments	
 4-) Disable Search
@@ -28,5 +28,5 @@
 25-) WP Cloudflare Super Page Cache
 26-) WP Hide & Security Enhancer
 27-) WP Super Cache	
-28-) Yoast SEO
-</p>
+28-) Yoast SEO</li>
+
