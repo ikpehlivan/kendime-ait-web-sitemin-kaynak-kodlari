@@ -30,4 +30,4 @@
   <li>28-) Yoast SEO</li></li>
 </ul>
 <p align="left">Belirli imkansızlıklar dahilinde kendi web adresimin hacklenebilme varyasyonlarını dahil edebildiğim video içeriği hazırlamıştım.<br>Ulaşabilmeniz için:</p>
-<a href="https://www.youtube.com/watch?v=6gPwYZw4qkM"> "HACKİNG İŞLEMLERİ VE SENARYOLARI NASIL GERÇEKLEŞİYOR?" adlı videoma gidebilmek adına tıklamanız yeterlidir.</a>
+<a href="https://www.youtube.com/watch?v=6gPwYZw4qkM"> "HACKİNG İŞLEMLERİ VE SENARYOLARI NASIL GERÇEKLEŞİYOR?" adlı videoma gidebilmek adına tıklamanız yeterli olacaktır.</a>
