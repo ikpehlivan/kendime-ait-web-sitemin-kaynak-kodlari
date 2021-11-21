@@ -7,7 +7,7 @@
   <li>4-) Disable Search</li>
   <li>5-) Disable WP Sitemap</li>
   <li>6-) Documents from Git</li>
-  <li>7-) Easy Hide Lo</li>
+  <li>7-) Easy Hide Login</li>
   <li>8-) Email Encoder - Protect Email Addresses	</li>
   <li>9-) Hide Admin Bar From Front End</li>
   <li>10-) Hide Comment Author Link	</li>
