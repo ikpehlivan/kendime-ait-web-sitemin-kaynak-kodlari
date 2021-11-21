@@ -1,4 +1,4 @@
-<p align="middle">Şahsıma ait web adresimin kaynak kodlarının tamamıdır. <br>(https://www.ilteriskaanpehlivan.com.tr)</p>
+<p align="middle">Şahsıma ait web adresimin ana sayfasının kaynak kodudur. Detayını paylaşmak istememekteyimdir ki hacklenebilme durumlarıyla karşılaşmamak istemeyişimdendir. <br>(https://www.ilteriskaanpehlivan.com.tr)</p>
 <ul>Kaynak kodlarının yanında kullandığım mevcut tüm eklentilerin isimlerini de ekleyecek olur isem:
   <li>1-) All 404 Redirect to Homepage	</li>
   <li>2-) Burger Companion	</li>
