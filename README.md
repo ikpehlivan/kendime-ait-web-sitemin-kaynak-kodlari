@@ -1,5 +1,5 @@
-<h3>Şahsıma ait web adresimin kaynak kodlarının tamamıdır.</h3>
-<br>(https://www.ilteriskaanpehlivan.com.tr)
+<p>Şahsıma ait web adresimin kaynak kodlarının tamamıdır.
+<br>(https://www.ilteriskaanpehlivan.com.tr)</h3>
 <ul>Kaynak kodlarının yanında kullandığım mevcut tüm eklentilerin isimlerini de ekler isem:
   <li>1-) All 404 Redirect to Homepage	</li>
   <li>2-) Burger Companion	</li>
