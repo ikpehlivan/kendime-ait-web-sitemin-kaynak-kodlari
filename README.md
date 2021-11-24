@@ -25,11 +25,12 @@
   <li>21-) Security by CleanTalk	</li>
   <li>22-) Shield Security</li>
   <li>23-) Webcraftic Hide Login Page</li>
-  <li>24-) Wordfence Security</li></li></li></li>
+  <li>24-) Wordfence Security</li>
   <li>25-) WP Cloudflare Super Page Cache</li>
   <li>26-) WP Hide & Security Enhancer</li>
-  <li>27-) WP Super Cache	</li></li>
+  <li>27-) WP Super Cache	</li>
   <li>28-) Yoast SEO</li></li>
+  <li>29-) Lion IP Address Blocker</li>
 </ul>
 <p align="left">Belirli imkansızlıklar dahilinde kendi web adresimin hacklenebilme varyasyonlarını dahil edebildiğim video içeriği hazırlamıştım.<br>Ulaşabilmeniz için:</p>
 
