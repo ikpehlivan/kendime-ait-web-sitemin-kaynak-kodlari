@@ -37,7 +37,7 @@
 <div>
 <h4 align="center"> 
   <a href="https://www.youtube.com/watch?v=6gPwYZw4qkM"> 
-  <img border="0" alt="HACKİNG İŞLEMLERİ VE SENARYOLARI NASIL GERÇEKLEŞİYOR?" src="https://i9.ytimg.com/vi/6gPwYZw4qkM/mqdefault.jpg?v=6197c5e9&sqp=CMTZ-IwG&rs=AOn4CLByXwB5OWJyoXfqAvAZsO9nCzyiHg" width="550" height="350"></a> 
+  <img border="0" alt="HACKİNG İŞLEMLERİ VE SENARYOLARI NASIL GERÇEKLEŞİYOR?" src="https://i9.ytimg.com/vi/6gPwYZw4qkM/mqdefault.jpg?v=6197c5e9&sqp=CMTZ-IwG&rs=AOn4CLByXwB5OWJyoXfqAvAZsO9nCzyiHg" width="250" height="150"></a> 
 </h4>
 </div>    
 </html>
