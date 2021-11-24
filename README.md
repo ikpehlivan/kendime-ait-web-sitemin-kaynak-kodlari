@@ -34,11 +34,10 @@
 </ul>
 <p align="left">Belirli imkansızlıklar dahilinde kendi web adresimin hacklenebilme varyasyonlarını dahil edebildiğim video içeriği hazırlamıştım.<br>Ulaşabilmeniz için:</p>
 
-
-
+<div>
 <h4 align="center"> 
   <a href="https://www.youtube.com/watch?v=6gPwYZw4qkM"> 
   <img border="0" alt="HACKİNG İŞLEMLERİ VE SENARYOLARI NASIL GERÇEKLEŞİYOR?" src="https://i9.ytimg.com/vi/6gPwYZw4qkM/hqdefault.jpg?v=6197c5e9&sqp=CMDp6IwG&rs=AOn4CLCqrTbGDdaWaqJFJlDrHldnXHl4gA" width="500" height="300"></a> 
 </h4>
-    
+</div>    
 </html>
