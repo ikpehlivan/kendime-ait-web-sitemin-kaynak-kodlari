@@ -32,7 +32,7 @@
   <li>28-) Yoast SEO</li></li>
   <li>29-) Lion IP Address Blocker</li>
 </ul>
-<p align="left">Belirli imkansızlıklar dahilinde kendi web adresimin hacklenebilme varyasyonlarını dahil edebildiğim video içeriği hazırlamıştım.<br>Ulaşabilmeniz için:</p>
+<p align="left">Belirli imkansızlıklar dahilinde kendi web adresimin hacklenebilme varyasyonlarını dahil edebildiğim video içeriği hazırlamıştım.<br>Ulaşabilmeniz için resme tıklamanız yeterli olacaktır. Video kapak resmi ve yönlendirilebilmeniz için:</p>
 
 <div>
 <h4 align="center"> 
